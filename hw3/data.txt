@@ -1,0 +1,16 @@
+A,B,C,D,E,F,G,H,I,J
+I,B,F,D,E,C,H,J
+F,C,F,G,A,D,C
+B,J,D,A,H
+E,A,B,E,G
+A,B,C,D,H,I,J
+I,B,F,D,J
+F,C,G,A,D,C
+B,J,P,A,H
+E,A,B,G
+E,A,B,K,T,C,E,G
+A,H,I,J
+I,G,I,D,J
+F,B,A,P,D,C
+B,J,A,D,P,G,H
+E,A,B,G
